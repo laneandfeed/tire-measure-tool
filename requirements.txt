@@ -1,0 +1,5 @@
+PyQt5>=5.15
+
+# Optional: only needed if you use marker_snap.py (sub-pixel snapping)
+# numpy
+# opencv-python-headless
