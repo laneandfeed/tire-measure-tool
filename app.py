@@ -1,4 +1,6 @@
-%%writefile app.py
+"""
+Gradio Web Application for tire-measurement-tool
+"""
 import math
 import gradio as gr
 from PIL import Image, ImageDraw
